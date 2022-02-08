@@ -14,3 +14,19 @@ C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.
 C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\ref\Sortintg Algorithem.dll
 C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.pdb
 C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.genruntimeconfig.cache
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\bin\Debug\net5.0\Sortintg Algorithem.exe
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\bin\Debug\net5.0\Sortintg Algorithem.deps.json
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\bin\Debug\net5.0\Sortintg Algorithem.runtimeconfig.json
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\bin\Debug\net5.0\Sortintg Algorithem.runtimeconfig.dev.json
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\bin\Debug\net5.0\Sortintg Algorithem.dll
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\bin\Debug\net5.0\ref\Sortintg Algorithem.dll
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\bin\Debug\net5.0\Sortintg Algorithem.pdb
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\obj\Debug\net5.0\Sortintg Algorithem.csproj.AssemblyReference.cache
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\obj\Debug\net5.0\Sortintg Algorithem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\obj\Debug\net5.0\Sortintg Algorithem.AssemblyInfoInputs.cache
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\obj\Debug\net5.0\Sortintg Algorithem.AssemblyInfo.cs
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\obj\Debug\net5.0\Sortintg Algorithem.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\obj\Debug\net5.0\Sortintg Algorithem.dll
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\obj\Debug\net5.0\ref\Sortintg Algorithem.dll
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\obj\Debug\net5.0\Sortintg Algorithem.pdb
+C:\Users\kevin\Documents\GitHub\Sorting_Algorithem\obj\Debug\net5.0\Sortintg Algorithem.genruntimeconfig.cache
