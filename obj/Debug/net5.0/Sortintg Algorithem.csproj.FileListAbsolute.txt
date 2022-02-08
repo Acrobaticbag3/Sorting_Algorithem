@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Sortintg Algorithem\bin\Debug\net5.0\Sortintg Algorithem.exe
+C:\Users\Admin\Desktop\Sortintg Algorithem\bin\Debug\net5.0\Sortintg Algorithem.deps.json
+C:\Users\Admin\Desktop\Sortintg Algorithem\bin\Debug\net5.0\Sortintg Algorithem.runtimeconfig.json
+C:\Users\Admin\Desktop\Sortintg Algorithem\bin\Debug\net5.0\Sortintg Algorithem.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Sortintg Algorithem\bin\Debug\net5.0\Sortintg Algorithem.dll
+C:\Users\Admin\Desktop\Sortintg Algorithem\bin\Debug\net5.0\ref\Sortintg Algorithem.dll
+C:\Users\Admin\Desktop\Sortintg Algorithem\bin\Debug\net5.0\Sortintg Algorithem.pdb
+C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.dll
+C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\ref\Sortintg Algorithem.dll
+C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.pdb
+C:\Users\Admin\Desktop\Sortintg Algorithem\obj\Debug\net5.0\Sortintg Algorithem.genruntimeconfig.cache
